@@ -5,4 +5,8 @@ git config --global user.email "bigdog@example.com"
 second python !
 python master!!
 second study!
-ALL clear!
+hello world!
+Creating a new branch is quick.
+Creating a new branch is quick & simple. 
+add a branch dev!
+git commit -m git ===
